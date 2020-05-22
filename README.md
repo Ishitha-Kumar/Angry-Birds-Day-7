@@ -1,2 +1,2 @@
-# Angry-Birds-Day-7
-we learnt about array and bird trajectory
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
